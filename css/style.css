@@ -1,0 +1,8 @@
+.wrap-button {
+    text-align: center;
+}
+
+.wrap-input, .wrap-list {
+    max-width: 50vh;
+    margin: 5rem auto;
+}
